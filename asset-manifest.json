@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todoassign/static/css/main.377d2e8b.chunk.css",
+    "main.js": "/todoassign/static/js/main.9606817f.chunk.js",
+    "main.js.map": "/todoassign/static/js/main.9606817f.chunk.js.map",
+    "runtime-main.js": "/todoassign/static/js/runtime-main.5f172ae6.js",
+    "runtime-main.js.map": "/todoassign/static/js/runtime-main.5f172ae6.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/todoassign/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f2ec721f.chunk.js": "/todoassign/static/js/2.f2ec721f.chunk.js",
+    "static/js/2.f2ec721f.chunk.js.map": "/todoassign/static/js/2.f2ec721f.chunk.js.map",
+    "index.html": "/todoassign/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/todoassign/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.377d2e8b.chunk.css.map": "/todoassign/static/css/main.377d2e8b.chunk.css.map",
+    "static/js/2.f2ec721f.chunk.js.LICENSE.txt": "/todoassign/static/js/2.f2ec721f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f172ae6.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f2ec721f.chunk.js",
+    "static/css/main.377d2e8b.chunk.css",
+    "static/js/main.9606817f.chunk.js"
+  ]
+}
